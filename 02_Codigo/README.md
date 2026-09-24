@@ -1,8 +1,14 @@
-# Código del proyecto
+# Código del Proyecto ValleSalud
 
-Carpeta donde se encuentra la implementación del sistema ValleSalud EP 2026-2.
+Carpeta destinada a almacenar los archivos fuente utilizados para el desarrollo del prototipo del Sistema ValleSalud.
 
-Contiene:
-- Modelos del sistema.
-- Funciones auxiliares.
-- Código principal de ejecución.
+## Contenido
+
+- 01_Modelos:
+  Contiene las clases principales utilizadas para representar las entidades del sistema.
+
+- 02_Funciones:
+  Contiene las funciones encargadas de realizar operaciones, consultas, filtros, reportes y validaciones.
+
+- main.py:
+  Archivo principal utilizado para ejecutar la demostración del prototipo.
