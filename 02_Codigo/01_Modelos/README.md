@@ -1,8 +1,14 @@
-# Modelos
+# Modelos del Sistema ValleSalud
 
-En esta carpeta se almacenan las clases y estructuras principales del sistema.
+Carpeta destinada a almacenar las clases principales que representan las entidades del sistema.
 
-Ejemplos:
-- Paciente
-- Cita
-- Medicamento
+## Contenido
+
+- paciente.py:
+  Modelo correspondiente a la información del paciente.
+
+- cita.py:
+  Modelo correspondiente al registro de citas médicas.
+
+- medicamento.py:
+  Modelo correspondiente a los medicamentos utilizados dentro del sistema.
