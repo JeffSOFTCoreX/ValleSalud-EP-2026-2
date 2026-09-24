@@ -1,9 +1,14 @@
-# Evidencias
+# Evidencias del Sistema ValleSalud
 
-Carpeta destinada a almacenar las evidencias del desarrollo del Sistema ValleSalud.
+Carpeta destinada a almacenar las evidencias que demuestran el funcionamiento del prototipo desarrollado.
 
-Incluye:
-- Capturas de ejecución.
-- Pruebas realizadas.
-- Resultados obtenidos.
-- Evidencias de validación.
+## Contenido
+
+- Capturas_Ejecucion:
+  Imágenes que muestran la ejecución del sistema y los resultados obtenidos.
+
+- Pruebas:
+  Documentos con los casos de prueba realizados y sus resultados.
+
+- Datos_Ficticios:
+  Información utilizada para demostrar el funcionamiento del sistema mediante datos de prueba.
