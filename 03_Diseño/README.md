@@ -1,8 +1,5 @@
-# Diseño del sistema
+# Diagrama UML del Sistema ValleSalud
 
-Carpeta donde se almacenan los elementos de diseño del proyecto.
+Esta carpeta contiene el diagrama UML correspondiente al diseño del prototipo del Sistema ValleSalud EP 2026-2.
 
-Incluye:
-- Diagramas del sistema.
-- Arquitectura propuesta.
-- Esquemas técnicos.
+El diagrama representa las clases principales del sistema, sus atributos, métodos y relaciones entre entidades, permitiendo visualizar la estructura del modelo planteado para la solución.
