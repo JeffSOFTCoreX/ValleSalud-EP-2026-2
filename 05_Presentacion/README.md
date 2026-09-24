@@ -1,8 +1,11 @@
-# Presentación
+# Presentación del Proyecto ValleSalud
 
-Carpeta destinada a almacenar los archivos utilizados para la sustentación del proyecto ValleSalud EP 2026-2.
+Carpeta destinada a almacenar el material utilizado para la presentación y sustentación del proyecto ValleSalud EP 2026-2.
 
-Contiene:
-- Diapositivas de presentación.
-- Material de apoyo para la exposición.
-- Versiones finales utilizadas durante la sustentación.
+## Contenido
+
+- Presentación Final:
+  Archivo exportado desde Canva utilizado para la exposición del proyecto.
+
+- Material de apoyo:
+  Recursos visuales utilizados durante la sustentación del prototipo.
