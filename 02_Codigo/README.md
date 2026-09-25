@@ -4,10 +4,10 @@ Carpeta destinada a almacenar los archivos fuente utilizados para el desarrollo 
 
 ## Contenido
 
-- 01_Modelos:
+- Modelos:
   Contiene las clases principales utilizadas para representar las entidades del sistema.
 
-- 02_Funciones:
+- Funciones:
   Contiene las funciones encargadas de realizar operaciones, consultas, filtros, reportes y validaciones.
 
 - main.py:
