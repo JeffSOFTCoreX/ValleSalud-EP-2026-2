@@ -7,8 +7,4 @@ Carpeta destinada a almacenar las evidencias que demuestran el funcionamiento de
 - Capturas_Ejecucion:
   Imágenes que muestran la ejecución del sistema y los resultados obtenidos.
 
-- Pruebas:
-  Documentos con los casos de prueba realizados y sus resultados.
 
-- Datos_Ficticios:
-  Información utilizada para demostrar el funcionamiento del sistema mediante datos de prueba.
