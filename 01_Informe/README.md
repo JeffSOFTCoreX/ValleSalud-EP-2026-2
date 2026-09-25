@@ -7,5 +7,3 @@ Carpeta destinada a almacenar la documentación escrita correspondiente al desar
 - Informe Final:
   Documento donde se presenta el contexto del problema, requerimientos, propuesta de solución, planificación, pruebas y conclusiones del proyecto.
 
-- Documentos complementarios:
-  Archivos adicionales relacionados con el desarrollo del informe.
